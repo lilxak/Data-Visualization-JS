@@ -1,0 +1,10 @@
+#plots{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#line_graph, #pie_chart{
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
